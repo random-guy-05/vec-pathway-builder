@@ -19,6 +19,7 @@ The task note in the app follows the data and evaluation pages: T1 predicts sing
 These links provide optional next steps. Their descriptions are not re-created here, and this index does not imply that the organizers reviewed or endorsed them.
 
 - [VEC workshop series](https://github.com/random-guy-05/vec-workshop-series): first-workflow, Task 1, Task 2, and Task 3 editions in 14 languages.
+- [VEC Rule Scenario Trainer](https://random-guy-05.github.io/vec-rule-scenario-trainer/): 33 rule scenarios in English, Spanish, and Simplified Chinese. The translations are community first editions; the linked official pages remain authoritative.
 - [VEC MetricLens](https://github.com/random-guy-05/vec-metriclens)
 - [VEC SpatialQC](https://github.com/random-guy-05/vec-spatialqc)
 - [VEC Perturbation Specificity Lab](https://github.com/ShaoliZhao/-VE-Perturbation-Specificity)
@@ -30,4 +31,4 @@ These links provide optional next steps. Their descriptions are not re-created h
 - [VEC Slurm Starter](https://github.com/random-guy-05/vec-slurm-starter)
 - [VEC PBS + LSF Starter](https://github.com/random-guy-05/vec-pbs-lsf-starter)
 
-The routes were curated from the public community resources list and the portfolio's searchable [Resource Navigator](https://random-guy-05.github.io/vec-resource-navigator/), whose 14 October 2026 snapshot cataloged 127 items.
+The routes were curated from the public community resources list and the portfolio's searchable [Resource Navigator](https://random-guy-05.github.io/vec-resource-navigator/), whose 14 October 2026 snapshot cataloged 137 items.

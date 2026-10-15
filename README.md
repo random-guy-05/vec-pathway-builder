@@ -8,7 +8,7 @@ A small, private-by-design guide that turns four choices—goal, task, compute a
 
 ## Use
 
-Open `index.html` or the [hosted version](https://random-guy-05.github.io/vec-pathway-builder/), choose a goal, task, compute context, and language, then select **Build my route**. Each route has three next steps, direct links, a note about the limits of the route, and a compute-specific setup pointer. Use the browser's print dialog to save a route as PDF.
+Open `index.html` or the [hosted version](https://random-guy-05.github.io/vec-pathway-builder/), choose a goal, task, compute context, and language, then select **Build my route**. Routes give three next steps; the orientation route adds a fourth, multilingual rules-practice link. Every step has a direct link and a short explanation; routes also include a scope note and a compute-specific setup pointer. Use the browser's print dialog to save a route as PDF.
 
 The four goals are:
 
@@ -18,6 +18,8 @@ The four goals are:
 - Prepare an Agent Team run using the rules, a dry-run harness, and an evidence check.
 
 The selected task changes the workshop or diagnostic. T1, T2, and T3 labels follow the official task descriptions. If the task is not known yet, the route points to the official task page. Cluster users see both Slurm and PBS/LSF starter links.
+
+The orientation route links to the [VEC Rule Scenario Trainer](https://random-guy-05.github.io/vec-rule-scenario-trainer/), a 33-case practice quiz available in English, Spanish, and Simplified Chinese. When the selected planner language is English, Spanish, or Simplified Chinese, the link opens the quiz in that language. For the other 11 planner languages, the link opens English and clearly lists the quiz's available translations. The planner describes the quiz in the selected interface language and flags its Spanish and Chinese text as community first editions; the quiz links back to the current official rules.
 
 ## What it does not do
 

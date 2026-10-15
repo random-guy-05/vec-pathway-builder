@@ -1,12 +1,12 @@
 # Community contribution submission
 
-**Kind:** build  
-**Title:** VEC Pathway Builder — private, multilingual routes through Challenge resources  
+**Kind:** expand
+**Title:** VEC Pathway Builder — 14-language route into rule practice
 **Public link:** https://random-guy-05.github.io/vec-pathway-builder/
 
 ## What it is, and who it helps
 
-The Challenge now has a large and fast-growing public resource list. The existing Resource Navigator can search and filter it, but a newcomer still has to know which terms to search for and how the official pages, task workshops, diagnostics, and setup guides fit together. VEC Pathway Builder addresses that discovery barrier with a short guided route. Participants choose a goal, task, compute context, and interface language; the tool returns three ordered next steps with direct links and a concise explanation of why each step belongs in the route.
+This expansion adds a fourth step to the orientation route: the 33-case VEC Rule Scenario Trainer, available in English, Spanish, and Simplified Chinese. Its title and explanation are translated in all 14 Pathway Builder interface languages, and the link passes English, Spanish, or Simplified Chinese to preselect the matching quiz language where available. For the other languages, it opens English and names the supported editions. The route notes that the Spanish and Chinese editions are community first drafts while the official linked rules remain authoritative. This makes the new rule-practice resource discoverable without requiring newcomers to know what to search for. The other routes retain three ordered steps.
 
 It offers routes for understanding the Challenge, preparing a first submission, diagnosing and comparing local results, and preparing an Agent Team run. Task choice changes the workshop and diagnostic. Compute choice shows a browser-only planning note, a local environment resource, or scheduler-matched cluster starters. The interface and route notes are translated into 14 languages, and the task workshops are linked to their matching editions.
 

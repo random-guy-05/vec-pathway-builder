@@ -8,7 +8,7 @@
 
 The Challenge now has a large and fast-growing public resource list. The existing Resource Navigator can search and filter it, but a newcomer still has to know which terms to search for and how the official pages, task workshops, diagnostics, and setup guides fit together. VEC Pathway Builder addresses that discovery barrier with a short guided route. Participants choose a goal, task, compute context, and interface language; the tool returns three ordered next steps with direct links and a concise explanation of why each step belongs in the route.
 
-It offers routes for understanding the Challenge, preparing a first submission, diagnosing and comparing local results, and preparing an Agent Team run. Task choice changes the workshop and diagnostic. Compute choice shows a browser-only planning note, a local environment resource, or scheduler-matched cluster starters. The interface and route notes are translated into 12 languages, and the task workshops are linked to their matching editions.
+It offers routes for understanding the Challenge, preparing a first submission, diagnosing and comparing local results, and preparing an Agent Team run. Task choice changes the workshop and diagnostic. Compute choice shows a browser-only planning note, a local environment resource, or scheduler-matched cluster starters. The interface and route notes are translated into 14 languages, and the task workshops are linked to their matching editions.
 
 The app is a single static HTML file with no account, dependencies, analytics, file access, upload, or backend. It does not rank models or promise improvements. Official pages remain the source of truth; community resources are presented with a clear review-status caveat.
 

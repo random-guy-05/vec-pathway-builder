@@ -2,7 +2,7 @@
 
 A small, private-by-design guide that turns four choices—goal, task, compute access, and interface language—into a short route through the Virtual Embryo Challenge's official guidance and existing community resources.
 
-**Languages:** English, German, Spanish, French, Italian, Turkish, Brazilian Portuguese, Simplified Chinese, Japanese, Korean, Hindi, and Arabic.  
+**Languages:** English, German, Spanish, French, Italian, Turkish, Brazilian Portuguese, Simplified Chinese, Japanese, Korean, Hindi, Arabic, Indonesian, and Vietnamese.  
 **Runtime:** one static HTML file; no dependencies, account, upload, analytics, or server-side processing.  
 **License:** MIT.
 
@@ -23,7 +23,7 @@ The selected task changes the workshop or diagnostic. T1, T2, and T3 labels foll
 
 This is a route planner, not a model recommender, data viewer, validator, scorer, or guarantee of ranking improvement. It does not read files or send choices anywhere. Official pages are linked live because requirements can change. Community tools have their own scope and limitations; their appearance here does not mean they have been reviewed or endorsed. Check the current official resource list before relying on any community contribution.
 
-The interface and route guidance are translated. Linked third-party pages remain in the language in which their authors published them. The task and first-workflow workshops currently link to matching editions in all 12 supported languages. Translations in this first edition have not had independent native-speaker review; correction requests are welcome.
+The interface and route guidance are translated. Linked third-party pages remain in the language in which their authors published them. Task and first-workflow workshops link to matching editions in all 14 supported languages. Translations in this first edition have not had independent native-speaker review; correction requests are welcome.
 
 ## Maintain
 

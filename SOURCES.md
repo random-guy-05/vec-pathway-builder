@@ -18,7 +18,7 @@ The task note in the app follows the data and evaluation pages: T1 predicts sing
 
 These links provide optional next steps. Their descriptions are not re-created here, and this index does not imply that the organizers reviewed or endorsed them.
 
-- [VEC workshop series](https://github.com/random-guy-05/vec-workshop-series): first-workflow, Task 1, Task 2, and Task 3 editions in 12 languages.
+- [VEC workshop series](https://github.com/random-guy-05/vec-workshop-series): first-workflow, Task 1, Task 2, and Task 3 editions in 14 languages.
 - [VEC MetricLens](https://github.com/random-guy-05/vec-metriclens)
 - [VEC SpatialQC](https://github.com/random-guy-05/vec-spatialqc)
 - [VEC Perturbation Specificity Lab](https://github.com/ShaoliZhao/-VE-Perturbation-Specificity)
